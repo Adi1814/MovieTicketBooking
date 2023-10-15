@@ -8,6 +8,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class RequestShowDetails {
-    private String names;
+    private String name;
     private String id;
 }
